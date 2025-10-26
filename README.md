@@ -13,23 +13,6 @@ The project demonstrates how varying the number of eigenfaces (M) affects recons
 - Recognition accuracy evaluation with confusion matrices
 - Robustness tests under Gaussian and Salt-and-Pepper noise
 
----
-
-## Project Structure
-```
-.
-├── eigenfaces.py              # Main implementation script
-├── Report.pdf   # Project report (IEEE format)
-├── Numerical_Methods_Project.pdf  # Original assignment guideline
-├── /output/
-│   ├── mean_face_all.png
-│   ├── mean_face_subset.png
-│   ├── eigenfaces/
-│   ├── reconstructed/
-│   ├── recognition/
-│   └── noise/
-└── README.md
-```
 
 ---
 
