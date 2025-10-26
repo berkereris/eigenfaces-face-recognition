@@ -19,7 +19,7 @@ The project demonstrates how varying the number of eigenfaces (M) affects recons
 ```
 .
 ├── eigenfaces.py              # Main implementation script
-├── BLG202_PROJECTREPORT.pdf   # Project report (IEEE format)
+├── Report.pdf   # Project report (IEEE format)
 ├── Numerical_Methods_Project.pdf  # Original assignment guideline
 ├── /output/
 │   ├── mean_face_all.png
